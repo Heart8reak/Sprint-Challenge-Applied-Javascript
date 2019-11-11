@@ -32,7 +32,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 #######################################################################################
 The DOM stands for Document Object Model, the DOM is an inteface that programmers can use to interact with webpages, the DOM gives developers access to read and manipulate the web pages content, structure and style.
-#######################################################################################
+###################################################################################### 
+
 2. What is an event?
 
 #######################################################################################
